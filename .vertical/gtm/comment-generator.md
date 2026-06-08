@@ -49,6 +49,21 @@ Look for:
 The best targets are not always huge accounts. Prefer people whose audience
 contains builders and founders you want to know.
 
+### Named Targets
+
+US VCs:
+- `@saranormous` - Conviction. Engage on AI-native companies, founder theses, market shifts, agent products, and fundraising/strategy posts where there is a real point to add.
+- `@pratyushbuddiga` - Susa Ventures. Engage on AI, developer tools, early-stage company building, and frontier software posts.
+
+Developers / Builder Audience:
+- `@mattpocockuk` - engage on AI coding, context engineering, skills, developer education, and practical agent workflows.
+- `@shadcn` - engage on developer tools, product craft, UI, AI-assisted building, and open-source product patterns.
+- `@steipete` - engage on AI coding, agent workflows, Apple/dev tooling, product engineering, and practical software-building observations.
+- `@karrisaarinen` - engage on Linear, product quality, design taste, startup/product craft, and operating systems for teams.
+
+Add more targets as specific handles, not broad categories. For each target,
+note the themes where replies are likely to be relevant.
+
 ## Reply Principles
 
 Good replies:
