@@ -60,6 +60,7 @@ Developers / Builder Audience:
 - `@shadcn` - engage on developer tools, product craft, UI, AI-assisted building, and open-source product patterns.
 - `@steipete` - engage on AI coding, agent workflows, Apple/dev tooling, product engineering, and practical software-building observations.
 - `@karrisaarinen` - engage on Linear, product quality, design taste, startup/product craft, and operating systems for teams.
+- `@vincent_koc` - engage on developer tools, AI-assisted engineering, coding-agent workflows, product building, and practical builder observations.
 
 Add more targets as specific handles, not broad categories. For each target,
 note the themes where replies are likely to be relevant.
