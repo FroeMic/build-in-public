@@ -116,6 +116,8 @@ Reference examples live in `.vertical/gtm/style-reference.md`.
 
 Use the content pillars for planning, but do not let posts sound like the pillar names.
 
+Write like a normal person on X or LinkedIn, not like polished marketing. People value authentic, specific, human-sounding text. Share what is being built and let people pull.
+
 Default shape:
 - Concrete observation.
 - Specific example.
@@ -143,8 +145,15 @@ Be careful with:
 - "business workflows"
 - "agentic leverage"
 - "the bottleneck is moving"
+- "curious who else is running into this"
 
 These words can be useful internally, but public posts should usually translate them into lived language.
+
+Avoid:
+- needy engagement bait
+- salesy pull requests
+- polished launch language before there is a real launch
+- lines that ask people to self-identify as a lead
 
 Avoid overcorrecting. The account should still have a thesis. The goal is not vagueness; it is curious precision. Prefer working observations over finished lessons unless the final line is genuinely sharp.
 

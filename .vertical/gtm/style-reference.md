@@ -336,6 +336,9 @@ When a draft feels wrong, check for these failure modes:
 - It uses internal words where lived language would be better.
 - It ends with a generic conclusion.
 - It pitches Vertical instead of showing the problem.
+- It sounds like polished marketing.
+- It asks people to self-identify as leads.
+- It uses needy engagement bait like "curious who else is running into this."
 
 Better moves:
 
@@ -344,3 +347,4 @@ Better moves:
 - Start with "One thing that surprised me..."
 - Use a concrete example.
 - End on the sharpest line, or do not add an ending.
+- Say what you are building and let people pull.

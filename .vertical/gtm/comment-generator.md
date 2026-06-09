@@ -61,6 +61,7 @@ Developers / Builder Audience:
 - `@steipete` - engage on AI coding, agent workflows, Apple/dev tooling, product engineering, and practical software-building observations.
 - `@karrisaarinen` - engage on Linear, product quality, design taste, startup/product craft, and operating systems for teams.
 - `@vincent_koc` - engage on developer tools, AI-assisted engineering, coding-agent workflows, product building, and practical builder observations.
+- `@gregisenberg` - engage on startup ideas, distribution, AI-native products, community-led growth, productized services, and founder/customer acquisition posts.
 
 Add more targets as specific handles, not broad categories. For each target,
 note the themes where replies are likely to be relevant.
@@ -80,12 +81,15 @@ Bad replies:
 - "We are building this."
 - Generic advice.
 - Overly polished thought leadership.
+- Needy or salesy lines like "curious who else is running into this."
 
 ## Style Calibration
 
 Reference examples live in `.vertical/gtm/style-reference.md`.
 
 Do not overcorrect into vagueness. The reply should still add a point.
+
+Write like a normal person, not like polished marketing. Share what you noticed or what you are building. Let people pull. Do not ask for leads inside the post unless the user explicitly wants that.
 
 Prefer curious precision over finished lessons:
 - "I keep coming back to..."
