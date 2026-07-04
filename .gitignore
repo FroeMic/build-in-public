@@ -1,1 +1,10 @@
-.vertical/
+# Local Claude Code permission settings stay per-machine
+.claude/settings.local.json
+
+# Stray browser downloads, not part of the workspace
+api-APLKbB-r.js
+cacheStore-Ciu3c2xl.js
+getAPIEndpointInWindow-BbTxi7Ge.js
+
+# Symlink into local founder-skills repo
+.claude/skills/demand-interview-builder
