@@ -7,15 +7,15 @@ Pillar: Business Context
 
 ## Draft
 
-Question I keep thinking about:
+question i keep coming back to
 
-What should an AI system remember about your business forever?
+what should an ai system remember about your business forever
 
-Customer conversations?
-Product decisions?
-Revenue changes?
-Failed experiments?
-Positioning shifts?
-Tasks that kept coming back?
+customer conversations
+product decisions
+revenue changes
+failed experiments
+positioning shifts
+tasks that kept coming back
 
-Feels like the answer says a lot about what kind of business agent you can build.
+the answer probably says a lot about what kind of business agent you can build

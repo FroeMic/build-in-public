@@ -7,17 +7,17 @@ Pillar: Agent Trust
 
 ## Draft
 
-One thing I underestimated:
+one thing i keep noticing
 
-Even in agent-first products, users still want a UI.
+even people who want agents still want a ui
 
-Not because they want more buttons.
+not because they want more buttons
 
-Because they want to understand:
+because they want to know
 
 what happened
 why it happened
 what happens next
 where they need to intervene
 
-Autonomy without legibility is hard to trust.
+autonomy is hard to trust when you cannot see the work

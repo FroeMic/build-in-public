@@ -7,17 +7,17 @@ Pillar: The Glue
 
 ## Draft
 
-Without integrations, agents become advisors.
+without integrations agents are mostly advisors
 
-With integrations, they can become operators.
+with integrations they can start to operate
 
-That sounds obvious, but it changes the product surface.
+but then the product problem changes
 
-Permissions become important.
-Audit trails become important.
-Recovery becomes important.
-Trust becomes important.
+permissions
+audit logs
+undo
+review
+credentials
+who can call what
 
-The hard part is not just intelligence.
-
-It is safe access to the outside world.
+safe access to the outside world becomes the hard part

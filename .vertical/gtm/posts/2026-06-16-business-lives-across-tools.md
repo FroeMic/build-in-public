@@ -7,21 +7,22 @@ Pillar: The Glue
 
 ## Draft
 
-The business does not live in one place.
+the more i build with agents the more i think the hard part is not just the model
 
-It lives across:
+it is the glue
+
+the business is spread across
 
 email
-CRM
-GitHub
-Stripe
+github
+linear
+stripe
+slack
 docs
 analytics
 spreadsheets
-social accounts
+internal apis
 
-This is why integrations matter so much for business agents.
+if the agent cannot touch those systems safely
 
-The model is only one part.
-
-The glue determines what the agent can actually touch.
+it mostly stays an advisor

@@ -7,31 +7,39 @@ Pillar: Business Context
 
 ## Draft
 
-I keep coming back to a simple idea:
+I keep coming back to this while working on agent products:
 
-Business context may end up being more valuable than business automation.
+the useful part of a company is not only the work it does
 
-Automation is becoming abundant.
+it is what the company remembers
 
-Writing copy, drafting emails, summarizing calls, generating leads, creating tasks, building landing pages. All of this is getting cheaper.
+what customers said
+what we tried
+what worked
+what failed
+what changed in the product
+which messages resonated
+which leads converted
+which assumptions are still open
 
-But the useful part of a business is not just the ability to do tasks.
+most of that context is scattered
 
-It is knowing:
+docs
+calls
+slack
+email
+crm
+spreadsheets
+people's heads
 
-What customers said.
-What we tried.
-What worked.
-What failed.
-What changed in the product.
-Which messages resonated.
-Which leads converted.
-Which assumptions are still open.
+ai makes it cheaper to do tasks
 
-That context is usually spread across tools, docs, calls, messages, spreadsheets, and people's heads.
+write the copy
+draft the email
+summarize the call
+create the issue
+build the landing page
 
-For business agents to become useful operators, they need more than task execution.
+but the harder thing is making sure the system learns from the work
 
-They need durable business memory.
-
-Otherwise every workflow starts from scratch.
+otherwise every workflow starts from scratch again

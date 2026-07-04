@@ -7,17 +7,18 @@ Pillar: Business Context
 
 ## Draft
 
-Without persistence, there is no business.
+thinking about business agents today
 
-An agent cannot operate a company if it forgets:
+a company is mostly memory
 
-customers
-conversations
-experiments
-revenue
-tasks
-product decisions
+who we talked to
+what they said
+what we tried
+what worked
+what changed
+what we promised
+what we should do next
 
-The interesting memory is not abstract.
+if the agent forgets that every time it is not really operating the business
 
-It is the operational memory of what happened, what changed, and what should happen next.
+it is just helping with tasks
