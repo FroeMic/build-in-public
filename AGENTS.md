@@ -10,6 +10,8 @@
 - `.vertical/gtm/styles/` — author style packs (`<author>.md`, compressed how-to-write) with eval companions (`<author>-rubric.md`, score a text against the pack). First pack: derek-sivers.
 - `.vertical/gtm/essays/` — long-form essay drafts, one file per essay (`YYYY-MM-DD-slug.md`, see TEMPLATE.md). A `Style:` header names the style pack to draft/eval against.
 - `.vertical/gtm/transcripts/` — stored transcripts of videos/talks referenced in sources.md.
+- `.vertical/gtm/library/` — stored source documents (PDFs, memos) referenced in sources.md.
+- `.vertical/gtm/essays/QUEUE.md` — the article queue: one-idea article candidates with seeds and evidence.
 - Background research on the larger system (eval loops, LLM wiki) lives in `.vertical/gtm/research/`.
 
 ## Voice For Content Work

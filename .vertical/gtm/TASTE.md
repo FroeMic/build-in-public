@@ -40,6 +40,15 @@ taste is allowed to change.
    Stripe, social accounts" → "github / linear / stripe / slack / internal
    apis". Name the actual tools in the stack, not the category exemplars.
 
+8. **Observations, never advice — including in essays.** No commands, no
+   second-person instruction ("Stop adding AI" — rejected), no opening that
+   addresses the reader's behavior. Credibility comes from having interesting
+   views and field access, not from convincing. When borrowing an author's
+   structure (e.g. Sivers), take the compression and shape; the stance stays
+   Micha's: share what was seen and thought, let the reader draw the
+   conclusion. Authority may be claimed only from what he actually did or
+   heard firsthand. (evidence: 2026-07-04 essay-structure session)
+
 ## Cut list
 
 Phrases and shapes that got edited out. Never draft these:
@@ -51,6 +60,9 @@ Phrases and shapes that got edited out. Never draft these:
 - Closing summary/lesson lines
 - "become important" repetition patterns
 - Question marks on rhetorical questions (X only)
+- Endings that reveal product motivation ("That's why I want to build it" —
+  rejected 2026-07-04: turns a shared thought into a pitch. Ending on one's
+  own concrete practice is fine; ending on wanting/selling is not.)
 
 ## Calibration pairs
 

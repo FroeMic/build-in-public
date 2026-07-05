@@ -20,6 +20,16 @@ Two kinds of `why` worth distinguishing when it's easy:
 
 ---
 
+## 2026-07-04 — Azeem Azhar: Why AI isn't showing up on your bottom line
+https://open.spotify.com/episode/0ieQjV2GYUxRRvvYoF0nTl
+transcript: [transcripts/azhar-why-ai-isnt-showing-up-on-your-bottom-line.md](transcripts/azhar-why-ai-isnt-showing-up-on-your-bottom-line.md)
+why: the economics behind the AI-native thesis — if AI is a general-purpose technology, ROI arrives only after firms reorganize around it (Brynjolfsson's J-curve, Paul David's electricity/dynamo history); explains why "adding AI" shows no bottom-line effect and organizational redesign does. Direct support for the everyone-wants-to-be-AI-native essay.
+
+## 2026-07-04 — Srecko (Lucid Capital): The Missing Backend for the Future of Knowledge Work
+stored: [library/2026-07-04-srecko-missing-backend-knowledge-work.pdf](library/2026-07-04-srecko-missing-backend-knowledge-work.pdf)
+why: investor articulation of the company-brain thesis — central context engine as "autonomous git" for knowledge work; git-grade rigor underneath, Notion-feeling surface; "a suggestion is the consumer version of a pull request"; artifact (not field) as the unit of control; names OpenViking and Modern Relay as existing projects
+> "Most stall somewhere between L1 and L3, and they stall for the same reason: a missing shared context layer underneath."
+
 ## 2026-07-04 — YC: How To Build A Company With AI From The Ground Up (Diana Hu)
 https://www.youtube.com/watch?v=EN7frwQIbKc
 transcript: [transcripts/how-to-build-a-company-with-ai-from-the-ground-up.md](transcripts/how-to-build-a-company-with-ai-from-the-ground-up.md)
